@@ -4,6 +4,10 @@ node_modules/
 # variables de entorno
 .env
 
+# ignora el contenido de audios y videos
+audios/*
+videos/*
+
 # logs
 npm-debug.log*
 yarn-debug.log*
